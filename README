@@ -1,0 +1,4 @@
+# TO run behavior tests please execute:
+
+gem install rspec
+rspec awesome_leaderboard_spec.rb person_spec.rb --color --format doc
